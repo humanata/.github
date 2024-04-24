@@ -6,11 +6,11 @@
 
 We understand the technology challenges for nonprofits that are best solved by emphasizing the technique and approach to data analytics. We pay attention to and comprehend the issues from our clients' perspectives, which enables us to contextualize the data and choose the most practical course of action to produce the intended results.
 
-### Mission 🚀
+### Mission 🎯
 
 To empower non-profit organizations to achieve their mission and make a greater impact on their communities by leveraging the power of technology and data.
 
-### Vision 🎯
+### Vision 🔮
 
 To provide reliable and innovative technology support and data analytics services to non-profit organizations, enabling them to make data-driven decisions, improve operational efficiencies, and maximize the impact of their programs.
 
